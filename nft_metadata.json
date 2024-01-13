@@ -1,0 +1,11 @@
+{
+    "name": "AO",
+    "description": "AO logo",
+    "image": "https://ipfs.io/ipfs/QmbnXkxXGnnekvKumNMCbinffPpifVBjuekJjUBhPE2tba",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 1
+        }
+    ]
+}
